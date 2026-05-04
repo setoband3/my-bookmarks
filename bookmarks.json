@@ -54,7 +54,7 @@
       "id": 6,
       "name": "Grok",
       "url": "https://grok.com",
-      "desc": "xAIã®ãã£ããAI",
+      "desc": "xAI",
       "genre": "",
       "cat": "ãã£ããAI",
       "iconType": "auto",
@@ -162,5 +162,7 @@
     }
   ],
   "genres": [],
-  "cats": []
+  "cats": [
+    "ãã£ããAI"
+  ]
 }
