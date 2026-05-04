@@ -37,8 +37,8 @@
       "desc": "Microsoft",
       "genre": "AI",
       "cat": "チャット",
-      "iconType": "auto",
-      "icon": ""
+      "iconType": "custom",
+      "icon": "https://copilot.microsoft.com/favicon.ico"
     },
     {
       "id": 5,
@@ -169,8 +169,24 @@
       "cat": "カレンダー",
       "iconType": "emoji",
       "icon": "📅"
+    },
+    {
+      "id": 19,
+      "name": "発注書アプリ",
+      "url": "http://192.168.12.36/order/",
+      "desc": "",
+      "genre": "自作アプリ",
+      "cat": "会社サーバー",
+      "iconType": "auto",
+      "icon": ""
     }
   ],
-  "genres": [],
-  "cats": []
+  "genres": [
+    "AI",
+    "自作アプリ"
+  ],
+  "cats": [
+    "チャット",
+    "会社サーバー"
+  ]
 }
