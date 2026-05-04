@@ -177,8 +177,18 @@
       "desc": "",
       "genre": "自作アプリ",
       "cat": "会社サーバー",
-      "iconType": "auto",
-      "icon": ""
+      "iconType": "emoji",
+      "icon": "🤖"
+    },
+    {
+      "id": 20,
+      "name": "勤怠・有給管理システム",
+      "url": "http://192.168.12.36/yukyu/",
+      "desc": "",
+      "genre": "自作アプリ",
+      "cat": "会社サーバー",
+      "iconType": "emoji",
+      "icon": "🤖"
     }
   ],
   "genres": [
