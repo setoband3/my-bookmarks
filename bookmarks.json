@@ -229,6 +229,16 @@
       "cat": "ホスティング",
       "iconType": "auto",
       "icon": ""
+    },
+    {
+      "id": 25,
+      "name": "supabase",
+      "url": "https://supabase.com/dashboard/org/diknerzcivpjscgzplqg",
+      "desc": "",
+      "genre": "開発",
+      "cat": "ホスティング",
+      "iconType": "auto",
+      "icon": ""
     }
   ],
   "genres": [
