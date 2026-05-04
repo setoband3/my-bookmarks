@@ -197,8 +197,18 @@
       "desc": "",
       "genre": "自作アプリ",
       "cat": "会社",
-      "iconType": "auto",
-      "icon": ""
+      "iconType": "emoji",
+      "icon": "🎯"
+    },
+    {
+      "id": 22,
+      "name": "ソフィックス営業売上管理",
+      "url": "https://sales-unified.vercel.app/entry",
+      "desc": "",
+      "genre": "自作アプリ",
+      "cat": "会社",
+      "iconType": "emoji",
+      "icon": "🔖"
     }
   ],
   "genres": [
