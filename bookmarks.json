@@ -209,15 +209,27 @@
       "cat": "会社",
       "iconType": "emoji",
       "icon": "🔖"
+    },
+    {
+      "id": 23,
+      "name": "vercel",
+      "url": "https://vercel.com/setosofix-9507s-projects",
+      "desc": "",
+      "genre": "開発",
+      "cat": "ホスティング",
+      "iconType": "auto",
+      "icon": ""
     }
   ],
   "genres": [
     "AI",
-    "自作アプリ"
+    "自作アプリ",
+    "開発"
   ],
   "cats": [
     "チャット",
     "会社サーバー",
-    "会社"
+    "会社",
+    "ホスティング"
   ]
 }
