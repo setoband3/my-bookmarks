@@ -189,6 +189,16 @@
       "cat": "会社サーバー",
       "iconType": "emoji",
       "icon": "🤖"
+    },
+    {
+      "id": 21,
+      "name": "目指せ優勝！アプリ",
+      "url": "https://mezase-yusho-app.vercel.app/login",
+      "desc": "",
+      "genre": "自作アプリ",
+      "cat": "会社",
+      "iconType": "auto",
+      "icon": ""
     }
   ],
   "genres": [
@@ -197,6 +207,7 @@
   ],
   "cats": [
     "チャット",
-    "会社サーバー"
+    "会社サーバー",
+    "会社"
   ]
 }
