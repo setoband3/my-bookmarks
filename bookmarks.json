@@ -1,5 +1,176 @@
 {
-  "tools": [],
+  "tools": [
+    {
+      "id": 1,
+      "name": "Claude",
+      "url": "https://claude.ai",
+      "desc": "Anthropic",
+      "genre": "AI",
+      "cat": "チャット",
+      "iconType": "auto",
+      "icon": ""
+    },
+    {
+      "id": 2,
+      "name": "ChatGPT",
+      "url": "https://chat.openai.com",
+      "desc": "OpenAI",
+      "genre": "AI",
+      "cat": "チャット",
+      "iconType": "auto",
+      "icon": ""
+    },
+    {
+      "id": 3,
+      "name": "Gemini",
+      "url": "https://gemini.google.com",
+      "desc": "Google",
+      "genre": "AI",
+      "cat": "チャット",
+      "iconType": "auto",
+      "icon": ""
+    },
+    {
+      "id": 4,
+      "name": "Copilot",
+      "url": "https://copilot.microsoft.com",
+      "desc": "Microsoft",
+      "genre": "AI",
+      "cat": "チャット",
+      "iconType": "auto",
+      "icon": ""
+    },
+    {
+      "id": 5,
+      "name": "Grok",
+      "url": "https://grok.com",
+      "desc": "xAI",
+      "genre": "AI",
+      "cat": "チャット",
+      "iconType": "auto",
+      "icon": ""
+    },
+    {
+      "id": 6,
+      "name": "Perplexity",
+      "url": "https://www.perplexity.ai",
+      "desc": "Perplexity AI",
+      "genre": "AI",
+      "cat": "検索",
+      "iconType": "auto",
+      "icon": ""
+    },
+    {
+      "id": 7,
+      "name": "Manus",
+      "url": "https://manus.im",
+      "desc": "Monica AI",
+      "genre": "AI",
+      "cat": "エージェント",
+      "iconType": "auto",
+      "icon": ""
+    },
+    {
+      "id": 8,
+      "name": "NotebookLM",
+      "url": "https://notebooklm.google.com",
+      "desc": "Google",
+      "genre": "AI",
+      "cat": "ドキュメント",
+      "iconType": "auto",
+      "icon": ""
+    },
+    {
+      "id": 9,
+      "name": "Notion AI",
+      "url": "https://www.notion.so",
+      "desc": "Notion Labs",
+      "genre": "AI",
+      "cat": "ライティング",
+      "iconType": "auto",
+      "icon": ""
+    },
+    {
+      "id": 10,
+      "name": "DeepL",
+      "url": "https://www.deepl.com",
+      "desc": "DeepL SE",
+      "genre": "AI",
+      "cat": "翻訳",
+      "iconType": "auto",
+      "icon": ""
+    },
+    {
+      "id": 11,
+      "name": "Google AI Studio",
+      "url": "https://aistudio.google.com",
+      "desc": "Google",
+      "genre": "AI",
+      "cat": "開発",
+      "iconType": "auto",
+      "icon": ""
+    },
+    {
+      "id": 12,
+      "name": "Gamma",
+      "url": "https://gamma.app",
+      "desc": "Gamma",
+      "genre": "AI",
+      "cat": "資料作成",
+      "iconType": "auto",
+      "icon": ""
+    },
+    {
+      "id": 13,
+      "name": "GitHub",
+      "url": "https://github.com",
+      "desc": "Microsoft",
+      "genre": "開発",
+      "cat": "コード管理",
+      "iconType": "auto",
+      "icon": ""
+    },
+    {
+      "id": 14,
+      "name": "Claude Code",
+      "url": "https://claude.ai/code",
+      "desc": "Anthropic",
+      "genre": "開発",
+      "cat": "AIコーディング",
+      "iconType": "auto",
+      "icon": ""
+    },
+    {
+      "id": 15,
+      "name": "現場専用ツール箱",
+      "url": "https://setoband3.github.io/my-calc/wareki.html",
+      "desc": "自作",
+      "genre": "自作アプリ",
+      "cat": "現場用",
+      "iconType": "emoji",
+      "icon": "🏠"
+    },
+    {
+      "id": 16,
+      "name": "ステージ部材計算・集積",
+      "url": "https://setoband3.github.io/my-calc/stage.html",
+      "desc": "自作",
+      "genre": "自作アプリ",
+      "cat": "現場用",
+      "iconType": "emoji",
+      "icon": "📐"
+    },
+    {
+      "id": 17,
+      "name": "会社休日",
+      "url": "https://setoband3.github.io/holiday-calendar/",
+      "desc": "自作",
+      "genre": "自作アプリ",
+      "cat": "カレンダー",
+      "iconType": "emoji",
+      "icon": "📅"
+    }
+  ],
   "genres": [],
   "cats": []
 }
