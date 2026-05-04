@@ -6,7 +6,7 @@
       "url": "https://claude.ai",
       "desc": "Anthropic",
       "genre": "AI",
-      "cat": "チャット",
+      "cat": "ãã£ãã",
       "iconType": "auto",
       "icon": ""
     },
@@ -16,7 +16,7 @@
       "url": "https://chat.openai.com",
       "desc": "OpenAI",
       "genre": "AI",
-      "cat": "チャット",
+      "cat": "ãã£ãã",
       "iconType": "auto",
       "icon": ""
     },
@@ -26,7 +26,7 @@
       "url": "https://gemini.google.com",
       "desc": "Google",
       "genre": "AI",
-      "cat": "チャット",
+      "cat": "ãã£ãã",
       "iconType": "auto",
       "icon": ""
     },
@@ -36,7 +36,7 @@
       "url": "https://copilot.microsoft.com",
       "desc": "Microsoft",
       "genre": "AI",
-      "cat": "チャット",
+      "cat": "ãã£ãã",
       "iconType": "auto",
       "icon": ""
     },
@@ -46,7 +46,7 @@
       "url": "https://grok.com",
       "desc": "xAI",
       "genre": "AI",
-      "cat": "チャット",
+      "cat": "ãã£ãã",
       "iconType": "auto",
       "icon": ""
     },
@@ -56,7 +56,7 @@
       "url": "https://www.perplexity.ai",
       "desc": "Perplexity AI",
       "genre": "AI",
-      "cat": "検索",
+      "cat": "æ¤ç´¢",
       "iconType": "auto",
       "icon": ""
     },
@@ -66,7 +66,7 @@
       "url": "https://manus.im",
       "desc": "Monica AI",
       "genre": "AI",
-      "cat": "エージェント",
+      "cat": "ã¨ã¼ã¸ã§ã³ã",
       "iconType": "auto",
       "icon": ""
     },
@@ -76,7 +76,7 @@
       "url": "https://notebooklm.google.com",
       "desc": "Google",
       "genre": "AI",
-      "cat": "ドキュメント",
+      "cat": "ãã­ã¥ã¡ã³ã",
       "iconType": "auto",
       "icon": ""
     },
@@ -86,7 +86,7 @@
       "url": "https://www.notion.so",
       "desc": "Notion Labs",
       "genre": "AI",
-      "cat": "ライティング",
+      "cat": "ã©ã¤ãã£ã³ã°",
       "iconType": "auto",
       "icon": ""
     },
@@ -96,7 +96,7 @@
       "url": "https://www.deepl.com",
       "desc": "DeepL SE",
       "genre": "AI",
-      "cat": "翻訳",
+      "cat": "ç¿»è¨³",
       "iconType": "auto",
       "icon": ""
     },
@@ -106,7 +106,7 @@
       "url": "https://aistudio.google.com",
       "desc": "Google",
       "genre": "AI",
-      "cat": "開発",
+      "cat": "éçº",
       "iconType": "auto",
       "icon": ""
     },
@@ -116,7 +116,7 @@
       "url": "https://gamma.app",
       "desc": "Gamma",
       "genre": "AI",
-      "cat": "資料作成",
+      "cat": "è³æä½æ",
       "iconType": "auto",
       "icon": ""
     },
@@ -125,8 +125,8 @@
       "name": "GitHub",
       "url": "https://github.com",
       "desc": "Microsoft",
-      "genre": "開発",
-      "cat": "コード管理",
+      "genre": "éçº",
+      "cat": "ã³ã¼ãç®¡ç",
       "iconType": "auto",
       "icon": ""
     },
@@ -135,40 +135,40 @@
       "name": "Claude Code",
       "url": "https://claude.ai/code",
       "desc": "Anthropic",
-      "genre": "開発",
-      "cat": "AIコーディング",
+      "genre": "éçº",
+      "cat": "AIã³ã¼ãã£ã³ã°",
       "iconType": "auto",
       "icon": ""
     },
     {
       "id": 15,
-      "name": "現場専用ツール箱",
+      "name": "ç¾å ´å°ç¨ãã¼ã«ç®±",
       "url": "https://setoband3.github.io/my-calc/wareki.html",
-      "desc": "自作",
-      "genre": "自作アプリ",
-      "cat": "現場用",
+      "desc": "èªä½",
+      "genre": "èªä½ã¢ããª",
+      "cat": "ç¾å ´ç¨",
       "iconType": "emoji",
-      "icon": "🏠"
+      "icon": "ð "
     },
     {
       "id": 16,
-      "name": "ステージ部材計算・集積",
+      "name": "ã¹ãã¼ã¸é¨æè¨ç®ã»éç©",
       "url": "https://setoband3.github.io/my-calc/stage.html",
-      "desc": "自作",
-      "genre": "自作アプリ",
-      "cat": "現場用",
+      "desc": "èªä½",
+      "genre": "èªä½ã¢ããª",
+      "cat": "ç¾å ´ç¨",
       "iconType": "emoji",
-      "icon": "📐"
+      "icon": "ð"
     },
     {
       "id": 17,
-      "name": "会社休日",
+      "name": "ä¼ç¤¾ä¼æ¥",
       "url": "https://setoband3.github.io/holiday-calendar/",
-      "desc": "自作",
-      "genre": "自作アプリ",
-      "cat": "カレンダー",
+      "desc": "èªä½",
+      "genre": "èªä½ã¢ããª",
+      "cat": "ã«ã¬ã³ãã¼",
       "iconType": "emoji",
-      "icon": "📅"
+      "icon": "ð"
     }
   ],
   "genres": [],
