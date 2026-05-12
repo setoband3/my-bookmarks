@@ -239,12 +239,23 @@
       "cat": "ホスティング",
       "iconType": "auto",
       "icon": ""
+    },
+    {
+      "id": 26,
+      "name": "パイプとジョイントの通販「スパクリショップ」",
+      "url": "https://www.spacioshop.com/",
+      "desc": "",
+      "genre": "資材",
+      "cat": "",
+      "iconType": "auto",
+      "icon": ""
     }
   ],
   "genres": [
     "AI",
     "自作アプリ",
-    "開発"
+    "開発",
+    "資材"
   ],
   "cats": [
     "チャット",
