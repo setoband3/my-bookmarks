@@ -259,6 +259,16 @@
       "cat": "",
       "iconType": "auto",
       "icon": ""
+    },
+    {
+      "id": 28,
+      "name": "棚卸しレポート",
+      "url": "http://192.168.12.36/tanaoroshi",
+      "desc": "",
+      "genre": "自作アプリ",
+      "cat": "",
+      "iconType": "emoji",
+      "icon": "🤖"
     }
   ],
   "genres": [
