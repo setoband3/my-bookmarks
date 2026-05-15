@@ -269,6 +269,16 @@
       "cat": "",
       "iconType": "emoji",
       "icon": "🤖"
+    },
+    {
+      "id": 29,
+      "name": "https://status.claude.com/",
+      "url": "https://status.claude.com/",
+      "desc": "",
+      "genre": "",
+      "cat": "",
+      "iconType": "auto",
+      "icon": ""
     }
   ],
   "genres": [
