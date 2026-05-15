@@ -279,6 +279,16 @@
       "cat": "",
       "iconType": "auto",
       "icon": ""
+    },
+    {
+      "id": 30,
+      "name": "仮納品書作成アプリ",
+      "url": "http://192.168.12.36:3003/notes/new",
+      "desc": "",
+      "genre": "自作アプリ",
+      "cat": "",
+      "iconType": "emoji",
+      "icon": "🤖"
     }
   ],
   "genres": [
